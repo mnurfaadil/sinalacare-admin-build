@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://sinalacare-admin.neonauby.com/static/css/main.23c8429c.css",
-    "main.js": "https://sinalacare-admin.neonauby.com/static/js/main.d283c233.js",
+    "main.js": "https://sinalacare-admin.neonauby.com/static/js/main.da449b92.js",
     "static/js/787.6babd09d.chunk.js": "https://sinalacare-admin.neonauby.com/static/js/787.6babd09d.chunk.js",
     "static/media/SinalaCare_UHT.png": "https://sinalacare-admin.neonauby.com/static/media/SinalaCare_UHT.12e0d2155a43cf2343ce.png",
     "static/media/SinalaCare_UHT_White.png": "https://sinalacare-admin.neonauby.com/static/media/SinalaCare_UHT_White.fd3a5a29891dbd378ced.png",
     "index.html": "https://sinalacare-admin.neonauby.com/index.html",
     "main.23c8429c.css.map": "https://sinalacare-admin.neonauby.com/static/css/main.23c8429c.css.map",
-    "main.d283c233.js.map": "https://sinalacare-admin.neonauby.com/static/js/main.d283c233.js.map",
+    "main.da449b92.js.map": "https://sinalacare-admin.neonauby.com/static/js/main.da449b92.js.map",
     "787.6babd09d.chunk.js.map": "https://sinalacare-admin.neonauby.com/static/js/787.6babd09d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23c8429c.css",
-    "static/js/main.d283c233.js"
+    "static/js/main.da449b92.js"
   ]
 }
